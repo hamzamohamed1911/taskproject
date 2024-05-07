@@ -25,7 +25,7 @@ const NewTask = ({onAdd }) => {
       />
 
       <button onClick={handleClick} className="text-stone-700 hover:text-slate-950">
-        Add Task
+        Add New Task
       </button>
     </div>
   )
