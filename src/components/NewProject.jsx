@@ -1,4 +1,4 @@
-import Input from './input';
+import Input from './input.jsx';
 import { useRef } from 'react';
 import Modal from './modal';
 
