@@ -1,6 +1,7 @@
 import { useRef } from 'react';
-import Modal from './modal.jsx';
-import Input from './input.jsx';
+import Modal from './Modal.jsx';
+import Input from './Input.jsx';
+
 
 const NewProject = ({onAdd , onCancel}) => {
 
